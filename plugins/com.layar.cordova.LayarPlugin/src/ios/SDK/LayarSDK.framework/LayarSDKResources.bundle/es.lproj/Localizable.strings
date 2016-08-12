@@ -1,0 +1,318 @@
+/* Number of POIs and objects found */
+"%@ and %@" = "%1$@ y %2$@";
+
+/* Number of objects found */
+"%d objects found" = "se encontraron %d objetos";
+
+/* Number of POIs found */
+"%d points of interest found" = "se encontraron %d puntos de interés";
+
+/* The title of an action that the user performed but the content was not loaded. Appears in a list of saved content. */
+"(untitled)" = "(sin título)";
+
+/* Single object found */
+"1 object found" = "1 objeto encontrado";
+
+/* Single POI found */
+"1 point of interest found" = "1 punto de interés encontrado";
+
+/* About screen title */
+"About" = "Sobre";
+
+/* About layer
+   WL apps menu item. %@ is replaced with app name */
+"About %@" = "Sobre %@";
+
+/* The Keys used by this application have expired and need to be renewed. */
+"Access of this application to the Layar platform has expired." = "El acceso de esta aplicación a la plataforma Layar ha caducado";
+
+/* Error handling URL scheme */
+"Application not installed" = "Aplicación no instalada";
+
+/* QR Code button to open an audio URL */
+"Audio" = "Audio";
+
+/* Automatically adjust range */
+"Automatically adjust range" = "Ajustar alcance automáticamente";
+
+/* Back */
+"Back" = "Atrás";
+
+/* QR Code button to dial a number */
+"Call" = "Llamar";
+
+/* Camera */
+"Camera" = "Cámara ";
+
+/* Cancel */
+"Cancel" = "Cancelar";
+
+/* Default subject
+   Text that will be shared on social network */
+"Check out %@ on the Layar Reality Browser!" = "¡Echa un vistazo a %@ en el navegador de Realidad Aumentada Layar!";
+
+/* Close view */
+"Close" = "Cerrar";
+
+/* Contact us */
+"Contact us" = "Contáctanos";
+
+/* Credits */
+"Credits" = "Créditos";
+
+/* Dismiss */
+"Dismiss" = "Descartar";
+
+/* Don't launch button */
+"Don't launch" = "No Iniciar";
+
+/* Error handling Layar URL */
+"Download Layar" = "Descárgate Layar";
+
+/* QR Code button to create an e-mail message */
+"E-Mail" = "Correo electrónico";
+
+/* Empty page */
+"Empty page" = "Página vacía";
+
+/* Error */
+"Error: %@" = "Error: %@";
+
+/* File Error */
+"File Error" = "Error de archivo";
+
+/* Get Layar */
+"Get Layar" = "Descárgate Layar";
+
+/* Sending layer details request */
+"Getting layer details..." = "Obteniendo detalles de la capa...";
+
+/* Sending GetPOI request */
+"Getting results..." = "Trayendo resultados...";
+
+/* WL apps menu item. %@ is replaced with app name */
+"How to use %@" = "Cómo usar %@";
+
+/* Popup message when screenshot was saved to camera roll */
+"Image is saved to your camera roll" = "La imagen se ha guardado en tu galería";
+
+/* Info */
+"Info" = "Información";
+
+/* This is the default email subject when sharing anything via email */
+"Interactive print with Layar" = "Prensa interactiva con Layar";
+
+/* Launch */
+"Launch" = "Iniciar";
+
+/* Title for location dialog */
+"Layar needs your location" = "Layar necesita usar tu ubicación";
+
+/* Title for camera access dialog */
+"No permission to access your camera" = "Sin permiso para acceder a la cámara";
+
+/* QR Code button for layar intent */
+"Layer" = "Capa";
+
+/* Title of layer actions action sheet */
+"Layer actions" = "Acciones de capa";
+
+/* QR Code button to open an audio URL - call to action */
+"Listen Now" = "Escúchalo";
+
+/* Loading… */
+"Loading…" = "Cargando...";
+
+/* QR Code button to display geo location */
+"Location" = "Ubicación";
+
+/* Login required */
+"Login required" = "Debes iniciar sesión";
+
+/* Title for map view in navigation bar */
+"Map" = "Mapa";
+
+/* Missing content */
+"Missing content" = "No se ha encontrado contenido";
+
+/* More */
+"More" = "Más";
+
+/* More actions */
+"More actions" = "Más acciones";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"No %@ logo in the page? Try a QR code" = "¿No ves nada con el logo de %@? Prueba a escanear un código QR";
+
+/* No content available */
+"No content available" = "No hay contenido disponible";
+
+/* Random tip shown if a scan fails. */
+"No Layar logo in the page? Try a QR code" = "¿No ves nada con el logo de Layar? Prueba a escanear un código QR";
+
+/* No Mail Accounts */
+"No Mail Accounts" = "No hay cuentas de correo";
+
+/* No network connection */
+"No network connection" = "No hay conexión de red";
+
+/* Alert box title shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"No Permissions" = "No tienes permisos suficientes";
+
+/* No POIs found */
+"No results found" = "No hubo resultados";
+
+/* Ok
+   OK
+   OK button title */
+"OK" = "Ok";
+
+/* Settins Button Title */
+"Settings" = "Ajustes";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"Only scan items with a %@ logo" = "Escanéa sólo objetos con el logo de %@";
+
+/* Random tip shown if a scan fails. */
+"Only scan items with a Layar logo" = "Escanéa sólo objetos con el logo de Layar";
+
+/* OAuth verification failed. Key and secret should be checked. */
+"Oops! Verification failed on our servers. Please try again later." = "Nuestros servidores no han podido verificar tus datos. Por favor inténtalo más tarde.";
+
+/* Web view action sheet item to open page in system browser */
+"Open in Safari" = "Abrir en Safari";
+
+/* No network connection message */
+"Please make sure you are connected to a network" = "Por favor, asegúrate de que estás conectado a una red";
+
+/* Please set up a Mail account in order to send email. */
+"Please set up a Mail account in order to send email." = "Por favor, configura una cuenta de correo para poder enviar correo electrónico.";
+
+/* Scan another page to see more content */
+"Scan another page to see more content" = "Escanea otra página para ver más contenido";
+
+/* Random tip shown if a scan fails. */
+"Scanning your surroundings? Open a Geo Layer" = "¿Estás escaneando tus alrededores? Prueba a abrir una Geo Layer";
+
+/* Screenshot view controller title */
+"Screenshots" = "Capturas de pantalla";
+
+/* Footer in the mail */
+"See more great layers and download the Layar Reality Browser for iPhone or Android at http://www.layar.com" = "Descubre más capas y descarga Layar para iPhone o Android en http://www.layar.com";
+
+/* Mail Controller Title */
+"Send by email" = "Mandar por correo electrónico";
+
+/* Web view action sheet item to share page */
+"Share" = "Compartir";
+
+/* Share screenshot view controller title */
+"Share screenshot" = "Compartir captura de pantalla";
+
+/* Share to Developer's site */
+"Share to Developer's site" = "Comparte con la página de desarrolladores";
+
+/* Sharing failed */
+"Sharing failed" = "Se ha producido un error a la hora de compartir el contenido";
+
+/* Sharing was successful */
+"Sharing was successful" = "Tu contenido se ha compartido";
+
+/* QR Code button to to create an SMS message */
+"SMS" = "SMS";
+
+/* Spot actions */
+"Spot actions" = "Acciones para este sitio";
+
+/* message for unpublished layer */
+"This layer has been unpublished by its owner." = "Esta capa ya no está disponible";
+
+/* This type of content is not compatible with the installed vesion of Layar */
+"This type of content is not compatible with the installed version of Layar" = "Este tipo de contenido no es compatible con tu versión de Layar";
+
+/* Tip text on first Nothing Found overlay, %@ is replaced with app name */
+"Tip: Make sure you are scanning %@ content or \nQR codes" = "Consejo: Asegúrate de que estás escaneando una imagen con el logo de %@ \no un código QR";
+
+/* Message on launch geo-layers if location wasn't enabled the first time */
+"To view Geo Layers, please turn on Location Services for the Layar app in your device's Settings menu" = "Para ver las capas, por favor activa los servicios de ubicación para Layar en el menú de configuración de tu dispositivo";
+
+/* Message on launch camera if camera access is not enabled */
+"Allow access to your camera to continue using our app" = "Permite acceso a la cámara para seguir usando Layar";
+
+/* Unable to configure network read stream. */
+"Unable to configure network read stream." = "Unable to configure network read stream.";
+
+/* unknown person string for qr code vcard button */
+"unknown person" = "persona desconocida";
+
+/* Unsupported content type */
+"Unsupported content type" = "Tipo de contenido no soportado";
+
+/* Upgrade now! */
+"Upgrade now!" = "¡Actualiza ahora!";
+
+/* QR Code button for unknown URL type */
+"URL" = "URL";
+
+/* QR Code button title to display a vCard */
+"vCard" = "vCard";
+
+/* QR Code button to display geo location - call to action */
+"View on Map" = "Ver en Mapa";
+
+/* View screenshots */
+"View screenshots" = "Ver capturas de pantalla";
+
+/* Waiting for GPS location... */
+"Waiting for GPS location..." = "Determinando ubicación GPS...";
+
+/* Async request failed
+   Layer details request failed
+   POI request failed
+   Text action request failed
+   Text action request to server failed */
+"We didn't receive a suitable response from our servers. You might want to check your network connection or try again later." = "Sin respuesta de nuestros servidores. Revisa tu conexión de red o inténtalo más tarde.";
+
+/* Alert box shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"We don't have permission to access your contacts. Allow access by going to your settings, select privacy, select contacts and allow Layar access to perform this action." = "No tenemos permiso para acceder a tus contactos. Cambia tu configuración en Ajustes, Privacidad, Contactos para permitir acceso a Layar.";
+
+/* QR Code button to open a URL */
+"WWW" = "WWW";
+
+/* Can't handle such URL scheme */
+"You don't have the required application installed on your device to launch this action: %@" = "No tienes instalada la aplicación adecuada para ejecutar esta acción: %@";
+
+/* Please download Layar app to view this content */
+"You need to download the free Layar Reality Browser to view this content" = "Necesitas descargarte la aplicación gratuita Layar para ver el contenido";
+
+/* Popup that asks the user for permission to launch an action */
+"You've reached a point of interest that wants to launch an action." = "Este punto de interés tiene una acción asociada";
+
+/* Popup that asks the user for permission to open a website */
+"You've reached a point of interest that wants to open a website." = "Este punto de interés abre una página web";
+
+/* Popup that asks the user for permission to play a sound */
+"You've reached a point of interest that wants to play a sound." = "Este punto de interés reproduce audio";
+
+/* Popup that asks the user for permission to play a video */
+"You've reached a point of interest that wants to play a video." = "Este punto de interés reproduce video";
+
+/* OAuth verification failed because date or time is incorrect. */
+"Your date or time is incorrect. Check your device settings and try again." = "La hora o fecha es incorrecta. Comprueba la configuración de tu dispositivo e inténtalo de nuevo.";
+
+/* Tip in detached view */
+"Zoom and rotate with two fingers." = "Usa dos dedos para rotar y ampliar.";
+
+/* Tip in detached view */
+"Zoom with two fingers." = "Haz zoom con dos dedos.";
+
+/* Access the layer login page */
+"Access the layer login page" = "Accede a la página de inicio de sesión de la capa
+";
+
+/* Login */
+"Login" = "Conectarse";
+
+/* Take me there action label */
+"Take me there" = "Cómo llegar";
+

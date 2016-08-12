@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.poolpfc.app_AR_rest"
+        },
+        "com.layar.cordova.LayarPlugin": {
+            "PACKAGE_NAME": "com.poolpfc.app_AR_rest"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.poolpfc.app_AR_rest"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.poolpfc.app_AR_rest"
+        }
+    }
+}

@@ -1,0 +1,317 @@
+/* Number of POIs and objects found */
+"%@ and %@" = "%1$@ en %2$@";
+
+/* Number of objects found */
+"%d objects found" = "%d objecten gevonden";
+
+/* Number of POIs found */
+"%d points of interest found" = "%d points of interest gevonden";
+
+/* The title of an action that the user performed but the content was not loaded. Appears in a list of saved content. */
+"(untitled)" = "(geen titel)";
+
+/* Single object found */
+"1 object found" = "1 object gevonden";
+
+/* Single POI found */
+"1 point of interest found" = "1 point of interest gevonden";
+
+/* About screen title */
+"About" = "Over";
+
+/* About layer
+   WL apps menu item. %@ is replaced with app name */
+"About %@" = "Over %@";
+
+/* The Keys used by this application have expired and need to be renewed. */
+"Access of this application to the Layar platform has expired." = "Toegang tot het Layar platform is verlopen voor deze applicatie";
+
+/* Error handling URL scheme */
+"Application not installed" = "Applicatie niet geinstalleerd";
+
+/* QR Code button to open an audio URL */
+"Audio" = "Audio";
+
+/* Automatically adjust range */
+"Automatically adjust range" = "Automatisch aanpassen bereik";
+
+/* Back */
+"Back" = "Terug";
+
+/* QR Code button to dial a number */
+"Call" = "Bellen";
+
+/* Camera */
+"Camera" = "Camera";
+
+/* Cancel */
+"Cancel" = "Annuleren";
+
+/* Default subject
+   Text that will be shared on social network */
+"Check out %@ on the Layar Reality Browser!" = "Bekijk %@ met #layar";
+
+/* Close view */
+"Close" = "Sluiten";
+
+/* Contact us */
+"Contact us" = "Neem contact op met ons";
+
+/* Credits */
+"Credits" = "Credits";
+
+/* Dismiss */
+"Dismiss" = "Ok";
+
+/* Don't launch button */
+"Don't launch" = "Niet openen";
+
+/* Error handling Layar URL */
+"Download Layar" = "Installeer Layar";
+
+/* QR Code button to create an e-mail message */
+"E-Mail" = "Email";
+
+/* Empty page */
+"Empty page" = "Lege pagina";
+
+/* Error */
+"Error: %@" = "Foutmelding: %@";
+
+/* File Error */
+"File Error" = "Bestands foutmelding";
+
+/* Get Layar */
+"Get Layar" = "Installeer Layar";
+
+/* Sending layer details request */
+"Getting layer details..." = "Layer details opvragen...";
+
+/* Sending GetPOI request */
+"Getting results..." = "Resultaten ophalen...";
+
+/* WL apps menu item. %@ is replaced with app name */
+"How to use %@" = "Hoe %@ te gebruiken";
+
+/* Popup message when screenshot was saved to camera roll */
+"Image is saved to your camera roll" = "Screenshot is opgeslagen in je foto verzameling";
+
+/* Info */
+"Info" = "Informatie";
+
+/* This is the default email subject when sharing anything via email */
+"Interactive print with Layar" = "Interactieve print met Layar";
+
+/* Launch */
+"Launch" = "Open";
+
+/* Title for location dialog */
+"Layar needs your location" = "Layar heeft je locatie nodig";
+
+/* Title for camera access dialog */
+"No permission to access your camera" = "Geen toestemming om de camera te openen";
+
+/* QR Code button for layar intent */
+"Layer" = "Layer";
+
+/* Title of layer actions action sheet */
+"Layer actions" = "Layer acties";
+
+/* QR Code button to open an audio URL - call to action */
+"Listen Now" = "Beluister nu";
+
+/* Loading… */
+"Loading…" = "Laden...";
+
+/* QR Code button to display geo location */
+"Location" = "Locatie";
+
+/* Login required */
+"Login required" = "Inloggen vereist";
+
+/* Title for map view in navigation bar */
+"Map" = "Kaart";
+
+/* Missing content */
+"Missing content" = "Geen content";
+
+/* More */
+"More" = "Meer";
+
+/* More actions */
+"More actions" = "Meer acties";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"No %@ logo in the page? Try a QR code" = "Geen %@ logo op de pagina? Probeer eens een QR code";
+
+/* No content available */
+"No content available" = "Geen content beschikbaar";
+
+/* Random tip shown if a scan fails. */
+"No Layar logo in the page? Try a QR code" = "Geen Layar logo op de pagina? Probeer eens een QR code";
+
+/* No Mail Accounts */
+"No Mail Accounts" = "Geen Email accounts gevonden";
+
+/* No network connection */
+"No network connection" = "Geen netwerkverbinding";
+
+/* Alert box title shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"No Permissions" = "Geen toegang";
+
+/* No POIs found */
+"No results found" = "Geen resultaten gevonden";
+
+/* Ok
+   OK
+   OK button title */
+"OK" = "OK";
+
+/* Settins Button Title */
+"Settings" = "Instellingen";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"Only scan items with a %@ logo" = "Scan alleen items met een %@ logo.";
+
+/* Random tip shown if a scan fails. */
+"Only scan items with a Layar logo" = "Scan alleen items met een Layar logo.";
+
+/* OAuth verification failed. Key and secret should be checked. */
+"Oops! Verification failed on our servers. Please try again later." = "Server verificatie mislukt. Probeer het later opnieuw.";
+
+/* Web view action sheet item to open page in system browser */
+"Open in Safari" = "Open in Safari";
+
+/* No network connection message */
+"Please make sure you are connected to a network" = "Weet je zeker dat je een netwerkverbinding hebt";
+
+/* Please set up a Mail account in order to send email. */
+"Please set up a Mail account in order to send email." = "Zet een Email account op om een Email te verzenden.";
+
+/* Scan another page to see more content */
+"Scan another page to see more content" = "Scan een andere pagina om meer content te zien";
+
+/* Random tip shown if a scan fails. */
+"Scanning your surroundings? Open a Geo Layer" = "Je omgeving aan het scannen? Open een Geo Layer.";
+
+/* Screenshot view controller title */
+"Screenshots" = "Screenshots";
+
+/* Footer in the mail */
+"See more great layers and download the Layar Reality Browser for iPhone or Android at http://www.layar.com" = "Zie meer layers!  Download Layar voor iPhone of Android. http://get.layar.com";
+
+/* Mail Controller Title */
+"Send by email" = "Verstuur per email";
+
+/* Web view action sheet item to share page */
+"Share" = "Deel";
+
+/* Share screenshot view controller title */
+"Share screenshot" = "Deel screenshot";
+
+/* Share to Developer's site */
+"Share to Developer's site" = "Delen naar website van developer";
+
+/* Sharing failed */
+"Sharing failed" = "Delen mislukt";
+
+/* Sharing was successful */
+"Sharing was successful" = "Delen geslaagd";
+
+/* QR Code button to to create an SMS message */
+"SMS" = "SMS";
+
+/* Spot actions */
+"Spot actions" = "Spot acties";
+
+/* message for unpublished layer */
+"This layer has been unpublished by its owner." = "De layer is verwijderd door de eigenaar.";
+
+/* This type of content is not compatible with the installed vesion of Layar */
+"This type of content is not compatible with the installed version of Layar" = "Deze content is niet compatible met deze versie van Layar";
+
+/* Tip text on first Nothing Found overlay, %@ is replaced with app name */
+"Tip: Make sure you are scanning %@ content or \nQR codes" = "Tip: Scan items met een %@ logo of QR codes";
+
+/* Message on launch geo-layers if location wasn't enabled the first time */
+"To view Geo Layers, please turn on Location Services for the Layar app in your device's Settings menu" = "Om Geo Layers te zien heeft Layar je locatie nodig. Ga naar toestel instellingen om dit toe te staan.";
+
+/* Message on launch camera if camera access is not enabled */
+"Allow access to your camera to continue using our app" = "Geef toegang tot de camera om onze app te gebruiken";
+
+/* Unable to configure network read stream. */
+"Unable to configure network read stream." = "Niet mogelijk om netwerk stream te configureren.";
+
+/* unknown person string for qr code vcard button */
+"unknown person" = "Onbekend persoon";
+
+/* Unsupported content type */
+"Unsupported content type" = "Content niet ondersteund";
+
+/* Upgrade now! */
+"Upgrade now!" = "Update nu!";
+
+/* QR Code button for unknown URL type */
+"URL" = "URL";
+
+/* QR Code button title to display a vCard */
+"vCard" = "vCard";
+
+/* QR Code button to display geo location - call to action */
+"View on Map" = "Bekijk op kaart";
+
+/* View screenshots */
+"View screenshots" = "Bekijk screenshots";
+
+/* Waiting for GPS location... */
+"Waiting for GPS location..." = "Wachten op GPS locatie...";
+
+/* Async request failed
+   Layer details request failed
+   POI request failed
+   Text action request failed
+   Text action request to server failed */
+"We didn't receive a suitable response from our servers. You might want to check your network connection or try again later." = "Geen respons van onze servers. Check je netwerk of probeer het later opnieuw.";
+
+/* Alert box shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"We don't have permission to access your contacts. Allow access by going to your settings, select privacy, select contacts and allow Layar access to perform this action." = "Layar heeft geen toegang tot je contacten. Geef Layar toegang door naar telefoon privacy instellingen te gaan, selecteer contacten en geef Layar toegang.";
+
+/* QR Code button to open a URL */
+"WWW" = "WWW";
+
+/* Can't handle such URL scheme */
+"You don't have the required application installed on your device to launch this action: %@" = "De juiste applicatie om deze actie te openen is niet geinstalleerd: %@";
+
+/* Please download Layar app to view this content */
+"You need to download the free Layar Reality Browser to view this content" = "Je moet de gratis Layar app downloaden om deze content te bekijken.";
+
+/* Popup that asks the user for permission to launch an action */
+"You've reached a point of interest that wants to launch an action." = "Je hebt een point of interest bereikt die een actie wilt lanceren.";
+
+/* Popup that asks the user for permission to open a website */
+"You've reached a point of interest that wants to open a website." = "Je hebt een point of interest bereikt die een website wilt lanceren.";
+
+/* Popup that asks the user for permission to play a sound */
+"You've reached a point of interest that wants to play a sound." = "Je hebt een point of interest bereikt die een audio wilt lanceren.";
+
+/* Popup that asks the user for permission to play a video */
+"You've reached a point of interest that wants to play a video." = "Je hebt een point of interest bereikt die een video wilt lanceren.";
+
+/* OAuth verification failed because date or time is incorrect. */
+"Your date or time is incorrect. Check your device settings and try again." = "Datum en tijd zijn niet correct. Controleer je instellingen en probeer het opnieuw.";
+
+/* Tip in detached view */
+"Zoom and rotate with two fingers." = "Zoom en draai met twee vingers";
+
+/* Tip in detached view */
+"Zoom with two fingers." = "Zoom met 2 vingers";
+
+/* Access the layer login page */
+"Access the layer login page" = "Toegang tot layer login pagina";
+
+/* Login */
+"Login" = "Inloggen";
+
+/* Take me there action label */
+"Take me there" = "Breng me daar";
+

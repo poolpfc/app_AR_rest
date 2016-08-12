@@ -1,0 +1,2 @@
+License: 
+By embedding the Layar SDK PhoneGap plugin in your application, you agree to the Terms and Conditions described in the Layar_SDK_License_Agreement_v5_4_20131016.pdf file which can be found in the Layar SDK PhoneGap plugin package or as Attachment 4 to our Layar Terms and Conditions for Developers and Publishers at https://www.layar.com/legal/terms-developers/

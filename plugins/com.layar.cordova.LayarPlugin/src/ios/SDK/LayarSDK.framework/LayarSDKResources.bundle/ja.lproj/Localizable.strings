@@ -1,0 +1,317 @@
+/* Number of POIs and objects found */
+"%@ and %@" = "%1＄@と%2＄@";
+
+/* Number of objects found */
+"%d objects found" = "%d個のオブジェクトが見つかりました";
+
+/* Number of POIs found */
+"%d points of interest found" = "%dポイント見つかりました";
+
+/* The title of an action that the user performed but the content was not loaded. Appears in a list of saved content. */
+"(untitled)" = "（タイトルなし）";
+
+/* Single object found */
+"1 object found" = "1個のオブジェクトが見つかりました";
+
+/* Single POI found */
+"1 point of interest found" = "1ポイント見つかりました";
+
+/* About screen title */
+"About" = "詳細";
+
+/* About layer
+   WL apps menu item. %@ is replaced with app name */
+"About %@" = " %@について";
+
+/* The Keys used by this application have expired and need to be renewed. */
+"Access of this application to the Layar platform has expired." = "Layarプラットフォームへの要求はタイムアウトしました。";
+
+/* Error handling URL scheme */
+"Application not installed" = "アプリがインストールされていません";
+
+/* QR Code button to open an audio URL */
+"Audio" = "音楽";
+
+/* Automatically adjust range */
+"Automatically adjust range" = "検索範囲の自動設定";
+
+/* Back */
+"Back" = "戻る";
+
+/* QR Code button to dial a number */
+"Call" = "電話をかける";
+
+/* Camera */
+"Camera" = "カメラ";
+
+/* Cancel */
+"Cancel" = "キャンセル";
+
+/* Default subject
+   Text that will be shared on social network */
+"Check out %@ on the Layar Reality Browser!" = "#layarで%@をチェック！";
+
+/* Close view */
+"Close" = "閉じる";
+
+/* Contact us */
+"Contact us" = "お問い合わせ";
+
+/* Credits */
+"Credits" = "編集";
+
+/* Dismiss */
+"Dismiss" = "削除";
+
+/* Don't launch button */
+"Don't launch" = "起動しない";
+
+/* Error handling Layar URL */
+"Download Layar" = "Layarをダウンロードする";
+
+/* QR Code button to create an e-mail message */
+"E-Mail" = "メール";
+
+/* Empty page */
+"Empty page" = "ページがみつかりません";
+
+/* Error */
+"Error: %@" = "エラー:%@";
+
+/* File Error */
+"File Error" = "ファイルエラー";
+
+/* Get Layar */
+"Get Layar" = "Layarを使ってみる";
+
+/* Sending layer details request */
+"Getting layer details..." = "情報取得中...";
+
+/* Sending GetPOI request */
+"Getting results..." = "検索中...";
+
+/* WL apps menu item. %@ is replaced with app name */
+"How to use %@" = "使い方 %@";
+
+/* Popup message when screenshot was saved to camera roll */
+"Image is saved to your camera roll" = "カメラロールに保存されました";
+
+/* Info */
+"Info" = "情報";
+
+/* This is the default email subject when sharing anything via email */
+"Interactive print with Layar" = "Layarで印刷物をもっとインタラクティブに";
+
+/* Launch */
+"Launch" = "起動";
+
+/* Title for location dialog */
+"Layar needs your location" = "Layarはあなたの位置情報を使用します";
+
+/* Title for camera access dialog */
+"No permission to access your camera" = "カメラのアクセス許可がありません";
+
+/* QR Code button for layar intent */
+"Layer" = "Layer";
+
+/* Title of layer actions action sheet */
+"Layer actions" = "アクション";
+
+/* QR Code button to open an audio URL - call to action */
+"Listen Now" = "聴いてみる";
+
+/* Loading… */
+"Loading…" = "ロード中...";
+
+/* QR Code button to display geo location */
+"Location" = "ロケーション";
+
+/* Login required */
+"Login required" = "ログインが必要です";
+
+/* Title for map view in navigation bar */
+"Map" = "マップ";
+
+/* Missing content */
+"Missing content" = "接続失敗";
+
+/* More */
+"More" = "その他";
+
+/* More actions */
+"More actions" = "その他のアクション";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"No %@ logo in the page? Try a QR code" = "%@のロゴが無かったら？QRコードで試してみてください";
+
+/* No content available */
+"No content available" = "コンテンツが見つかりません";
+
+/* Random tip shown if a scan fails. */
+"No Layar logo in the page? Try a QR code" = "Layarのロゴが無かったら？QRコードで試してみてください";
+
+/* No Mail Accounts */
+"No Mail Accounts" = "存在しないメールアドレスです";
+
+/* No network connection */
+"No network connection" = "ネットワーク接続がありません";
+
+/* Alert box title shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"No Permissions" = "承認しない";
+
+/* No POIs found */
+"No results found" = "０件の結果";
+
+/* Ok
+   OK
+   OK button title */
+"OK" = "OK";
+
+/* Settins Button Title */
+"Settings" = "設定";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"Only scan items with a %@ logo" = "%@のロゴと一緒にアイテムをスキャンするだけ\n\n\n";
+
+/* Random tip shown if a scan fails. */
+"Only scan items with a Layar logo" = "Layarのロゴと一緒にアイテムをスキャンするだけ\n\n\n";
+
+/* OAuth verification failed. Key and secret should be checked. */
+"Oops! Verification failed on our servers. Please try again later." = "サーバー接続に失敗しました。しばらくしてからもう一度お試しください。";
+
+/* Web view action sheet item to open page in system browser */
+"Open in Safari" = "Safariで開く";
+
+/* No network connection message */
+"Please make sure you are connected to a network" = "ネットワーク接続を確認してください";
+
+/* Please set up a Mail account in order to send email. */
+"Please set up a Mail account in order to send email." = "メールアドレスを設定してください";
+
+/* Scan another page to see more content */
+"Scan another page to see more content" = "他のページで試してみてください";
+
+/* Random tip shown if a scan fails. */
+"Scanning your surroundings? Open a Geo Layer" = "あなたのわまりを見てみたい？ロケーション型Layarを使ってみよう";
+
+/* Screenshot view controller title */
+"Screenshots" = "スクリーンショット";
+
+/* Footer in the mail */
+"See more great layers and download the Layar Reality Browser for iPhone or Android at http://www.layar.com" = "日常をもっと楽しむために。http://www.layar.comからiPhone/Android版Layarをダウンロードしよう！";
+
+/* Mail Controller Title */
+"Send by email" = "メール送信";
+
+/* Web view action sheet item to share page */
+"Share" = "共有";
+
+/* Share screenshot view controller title */
+"Share screenshot" = "スクリーンショットを共有";
+
+/* Share to Developer's site */
+"Share to Developer's site" = "開発環境の共有";
+
+/* Sharing failed */
+"Sharing failed" = "共有できません";
+
+/* Sharing was successful */
+"Sharing was successful" = "共有しました";
+
+/* QR Code button to to create an SMS message */
+"SMS" = "SMS";
+
+/* Spot actions */
+"Spot actions" = "アクション";
+
+/* message for unpublished layer */
+"This layer has been unpublished by its owner." = "このLayarは非公開コンテンツです";
+
+/* This type of content is not compatible with the installed vesion of Layar */
+"This type of content is not compatible with the installed version of Layar" = "お使いのLayarのバージョンでは利用できません";
+
+/* Tip text on first Nothing Found overlay, %@ is replaced with app name */
+"Tip: Make sure you are scanning %@ content or \nQR codes" = "ヒント:アイテムに%@のロゴかQRコードが印刷されているか確認してください";
+
+/* Message on launch geo-layers if location wasn't enabled the first time */
+"To view Geo Layers, please turn on Location Services for the Layar app in your device's Settings menu" = "ロケーションコンテンツを利用するには、端末の位置情報サービスをオンにしてください。";
+
+/* Message on launch camera if camera access is not enabled */
+"Allow access to your camera to continue using our app" = "続けるにはカメラのアクセスを許可してください";
+
+/* Unable to configure network read stream. */
+"Unable to configure network read stream." = "ネットワークリードストリームを設定できませんでした";
+
+/* unknown person string for qr code vcard button */
+"unknown person" = "名無し";
+
+/* Unsupported content type */
+"Unsupported content type" = "サポート外のコンテンツタイプです。";
+
+/* Upgrade now! */
+"Upgrade now!" = "アップグレードしてください！";
+
+/* QR Code button for unknown URL type */
+"URL" = "URL";
+
+/* QR Code button title to display a vCard */
+"vCard" = "vCard";
+
+/* QR Code button to display geo location - call to action */
+"View on Map" = "マップ";
+
+/* View screenshots */
+"View screenshots" = "スクリーンショットをみる";
+
+/* Waiting for GPS location... */
+"Waiting for GPS location..." = "緯度経度情報取得中...";
+
+/* Async request failed
+   Layer details request failed
+   POI request failed
+   Text action request failed
+   Text action request to server failed */
+"We didn't receive a suitable response from our servers. You might want to check your network connection or try again later." = "サーバー接続に失敗しました。ネットワーク環境を確認し、しばらくしてからもう一度お試しください。";
+
+/* Alert box shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"We don't have permission to access your contacts. Allow access by going to your settings, select privacy, select contacts and allow Layar access to perform this action." = "コンテンツへにアクセスできません。設定からプライバシーを選択し、このアクションを実行できるコンテンツを選択してください。";
+
+/* QR Code button to open a URL */
+"WWW" = "WWW";
+
+/* Can't handle such URL scheme */
+"You don't have the required application installed on your device to launch this action: %@" = "お使いの端末にはこのアクションを実行するためのアプリケーションがインストールされていません:%@";
+
+/* Please download Layar app to view this content */
+"You need to download the free Layar Reality Browser to view this content" = "このコンテンツを見るためにはLayarアプリ（無料）をダウンロードしてください。";
+
+/* Popup that asks the user for permission to launch an action */
+"You've reached a point of interest that wants to launch an action." = "Layarはアクションを起動しようとしています。許可しますか？";
+
+/* Popup that asks the user for permission to open a website */
+"You've reached a point of interest that wants to open a website." = "Layarはウェブサイトにリンクしようとしています。許可しますか？";
+
+/* Popup that asks the user for permission to play a sound */
+"You've reached a point of interest that wants to play a sound." = "Layarは音楽を再生しようとしています。許可しますか？";
+
+/* Popup that asks the user for permission to play a video */
+"You've reached a point of interest that wants to play a video." = "Layarは動画を再生しようとしています。許可しますか？";
+
+/* OAuth verification failed because date or time is incorrect. */
+"Your date or time is incorrect. Check your device settings and try again." = "日時の設定が正しくありません。端末の日時の設定を確認し、もう一度お試しください。";
+
+/* Tip in detached view */
+"Zoom and rotate with two fingers." = "2本指で操作すればズーム・回転します";
+
+/* Tip in detached view */
+"Zoom with two fingers." = "2本指で操作するとズームできます";
+
+/* Access the layer login page */
+"Access the layer login page" = "ログインページへ";
+
+/* Login */
+"Login" = "ログイン";
+
+/* Take me there action label */
+"Take me there" = "ルート案内";
+

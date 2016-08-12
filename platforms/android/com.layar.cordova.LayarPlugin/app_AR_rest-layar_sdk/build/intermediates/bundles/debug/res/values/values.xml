@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">@color/holo_blue_light</color>
+    <color name="actionbar_text">@color/background_panel</color>
+    <color name="background_actionbar">@color/layar_ab_color</color>
+    <color name="background_actionbar_empty_space">#ececec</color>
+    <color name="background_actionbar_not_branded">#dddddd</color>
+    <color name="background_nothing_found_dialog">#d0ffffff</color>
+    <color name="background_panel">@color/white</color>
+    <color name="background_welcome_sequence">#f4f4f4</color>
+    <color name="black">#46484d</color>
+    <color name="briefinfo_arrow">#88FFFFFF</color>
+    <color name="button_highlight">#ff33b5e5</color>
+    <color name="buttons_bar_backcolor">@color/background_panel</color>
+    <color name="default_list_bg_color">@color/white</color>
+    <color name="default_list_divider_color">@color/grey</color>
+    <color name="default_text_color">@color/black</color>
+    <color name="default_text_color_light">#ffffff</color>
+    <color name="default_text_shadow_color">#ffffff</color>
+    <color name="detail_background">#eaeaea</color>
+    <color name="details_text_color">@color/grey</color>
+    <color name="error">#ff0000</color>
+    <color name="grey">#a2a2a2</color>
+    <color name="holo_blue_bright">#aae2f3</color>
+    <color name="holo_blue_light">#029ac7</color>
+    <color name="layar_ab_color">#46484d</color>
+    <color name="layar_brand">#00afcd</color>
+    <color name="layar_divider">@color/grey</color>
+    <color name="layar_splash_color">@color/layar_brand</color>
+    <color name="layar_tip_color">#46484d</color>
+    <color name="layerlist_text">@color/black</color>
+    <color name="list_background">@color/white</color>
+    <color name="poi_details_background">#f5f4f5</color>
+    <color name="primary_text">@color/black</color>
+    <color name="secondary_text">@color/grey</color>
+    <color name="semitransparent_white">#88ffffff</color>
+    <color name="share_on_facebook_button_pressed">#3d538f</color>
+    <color name="share_on_facebook_title">#586eaa</color>
+    <color name="translucenter_dark">#bf000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="vision_ar_overlay_bar">#80000000</color>
+    <color name="white">#f3f3f3</color>
+    <dimen name="actionbar_height">48dp</dimen>
+    <dimen name="ar_biw_top_height">40dip</dimen>
+    <dimen name="ar_buttons_offset">6dp</dimen>
+    <dimen name="audio_player_height">32dp</dimen>
+    <dimen name="big_actionbar_height">64dp</dimen>
+    <dimen name="launch_area_width">50dip</dimen>
+    <dimen name="layer_item_height">80dip</dimen>
+    <dimen name="list_divider_height">1px</dimen>
+    <dimen name="margin_big">24dp</dimen>
+    <dimen name="margin_normal">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="poi_image_height">68dip</dimen>
+    <dimen name="poi_image_rounds">5dip</dimen>
+    <dimen name="poi_image_width">101dip</dimen>
+    <dimen name="spotlight_details_actions">30dip</dimen>
+    <dimen name="spotlight_details_lines_portrait">125dip</dimen>
+    <dimen name="spotlight_item_height">56dip</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_prefs_section">14sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="vision_bottom_bar_height">48dip</dimen>
+    <dimen name="watermark_padding">8dp</dimen>
+    <drawable name="layar_ab_icon">@drawable/layar_ic_logo</drawable>
+    <string name="action_chooser_title">Choose application</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_share">Share</string>
+    <string name="apply">Apply</string>
+    <string name="ar_view">Switch to AR view</string>
+    <string name="audio_error">This audio file cannot be played.</string>
+    <string name="audio_error_title">Cannot play audio</string>
+    <string name="audio_loading">Loading audio</string>
+    <string name="cancel">Cancel</string>
+    <string name="cant_take_screenshot">Can\'t take screenshot in this view</string>
+    <string name="continue_">Continue</string>
+    <string name="copy_link">Copy link</string>
+    <string name="copy_message">Link was copied</string>
+    <string name="copy_message_fail">There\'s nothing to copy</string>
+    <string name="country_code_default">AUTO</string>
+    <string name="custom_filter_layer_settings">Layer settings</string>
+    <string name="custom_filter_range_settings">Range</string>
+    <string formatted="false" name="custom_filter_range_text">Showing spots within %value%</string>
+    <string name="detach_content">Pop out to continue</string>
+    <string name="detach_tip">Point back at the item, or tap below to pop out and view the content</string>
+    <string name="developer">Developer</string>
+    <string name="distance_unit_default">METRIC</string>
+    <string name="download_layar_button">Get Layar</string>
+    <string name="download_layar_description">You need to download the free Layar app to view this content</string>
+    <string name="download_layar_title">Download Layar</string>
+    <string name="download_message">Are you sure that you want to download this PDF?</string>
+    <string name="ellipsis">...</string>
+    <string name="email">Email</string>
+    <string name="error_layer_deleted">This layer is not available anymore</string>
+    <string name="error_location_provider_message">To view Geo Layers turn on Location in you device\'s settings menu. </string>
+    <string name="error_location_provider_title">Layar needs your location </string>
+    <string name="error_maintenance">We are doing some maintenance in the Layar servers, service will be restored soon</string>
+    <string name="error_maintenance_title">Down for maintenance</string>
+    <string name="error_no_active_connection">No network connection</string>
+    <string name="error_no_connection">Unable to connect</string>
+    <string name="error_oauth_timestamp_invalid">Your date or time is incorrect. Check your device settings and try again.</string>
+    <string name="error_oauth_verification_failed">Verification failed on our servers. Try again later.</string>
+    <string name="error_out_of_memory">Not enough memory. Close other applications and try again.</string>
+    <string name="error_player_expired">Access of this application to the Layar platform has expired.</string>
+    <string name="facebook">Facebook</string>
+    <string name="filters">Filters</string>
+    <string name="layer">Layer</string>
+    <string name="layer_actions">Layer actions</string>
+    <string formatted="false" name="layer_details_body">I\'m using the free Layar app on my %android% and wanted to share this layer I discovered!
+				\n\n%name%
+				\n\n%description%
+				\nPublished by: %publisher%
+				\nLink: %link%
+				\nSee Download the free Layar app for iPhone or Android at http://get.layar.com</string>
+    <string formatted="false" name="layer_details_subject">Check out %title% on #layar</string>
+    <string name="layer_info">Layer info</string>
+    <string name="layer_photo">Take photo</string>
+    <string name="layer_report_problem">Report a problem</string>
+    <string formatted="false" name="layer_report_problem_body">I spotted a problem in %layername%. Take a look at it!</string>
+    <string name="leaving_message">Leaving Layar: Press back button to come back!</string>
+    <string name="map_view">Switch to map view</string>
+    <string name="menu_filter">@string/custom_filter_layer_settings</string>
+    <string name="menu_goto_ar">Camera view</string>
+    <string name="menu_layer_info">Layer info</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_screenshot">Screenshot</string>
+    <string name="multiple_login_email_address">support@layar.com</string>
+    <string name="no">No</string>
+    <string name="no_connection_message">No network connection. Check your connection and try again</string>
+    <string name="no_connection_settings">Settings</string>
+    <string name="no_connection_title">No network connection</string>
+    <string name="ok">OK</string>
+    <string name="openGPSSettingPrompt">GPS disabled, do you want to enable it?</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="poi_action_directions">Take me there</string>
+    <string name="poi_action_lock">Lock in view</string>
+    <string name="poi_action_more">More</string>
+    <string name="poi_action_unlock">Unlock in view</string>
+    <string name="progress_analyzing">Analyzing...</string>
+    <string name="progress_getting_content">Getting content...</string>
+    <string name="progress_getting_results">Getting results...</string>
+    <string name="progress_loading">Loading...</string>
+    <string name="progress_processing">Processing...</string>
+    <string name="qrcode_audio">Audio</string>
+    <string name="qrcode_audio_text">Listen Now</string>
+    <string name="qrcode_email">Email</string>
+    <string name="qrcode_geo">Location</string>
+    <string name="qrcode_geo_text">View on Map</string>
+    <string name="qrcode_googleplay">Google play</string>
+    <string name="qrcode_layer">Layer</string>
+    <string name="qrcode_sms">SMS</string>
+    <string name="qrcode_tel">Call</string>
+    <string name="qrcode_unknown">Unknown</string>
+    <string name="qrcode_unsuported_action">Unsupported action</string>
+    <string name="qrcode_vcard">vCard</string>
+    <string name="qrcode_video">Video</string>
+    <string name="qrcode_video_text">Watch Now</string>
+    <string name="qrcode_web">WWW</string>
+    <string name="refresh_layer">Refresh</string>
+    <string name="save">Save</string>
+    <string name="screenshot_saved">Screenshot was added to the photo Gallery</string>
+    <string name="share">Share</string>
+    <string name="share_chooser_title">Share this layer</string>
+    <string name="share_dialog_title">Sharing method</string>
+    <string name="share_fail">There was a problem while sharing!</string>
+    <string name="share_generic_message">I found this link in #layar</string>
+    <string name="share_layer">Share layer</string>
+    <string name="share_on_facebook_add_your_thougth">Add your thoughts</string>
+    <string name="share_on_facebook_post">Post</string>
+    <string name="share_on_facebook_share">Share</string>
+    <string name="share_on_facebook_share_link">Share Link</string>
+    <string name="share_on_facebook_whats_on_your_mind">What\'s on your mind?</string>
+    <string name="share_on_facebook_write_post">Write Post</string>
+    <string name="share_screenshot">Share screenshot</string>
+    <string name="share_status">Share status</string>
+    <string name="share_success_message">Sharing is successfully done!</string>
+    <string name="share_via">Share via</string>
+    <string name="spot_actions">Spot actions</string>
+    <string formatted="false" name="status_1_result_found">1 point of interest found</string>
+    <string name="status_authentication_required">Authenticate to use layer</string>
+    <string name="status_no_content_available">No content available</string>
+    <string name="status_no_results_found">No results found</string>
+    <string name="status_something_went_wrong">Something went wrong. Try again!</string>
+    <string name="status_waiting_location">Waiting for location...</string>
+    <string formatted="false" name="status_x_results_found">%progress% points of interest found</string>
+    <string name="tap_to_dismiss">TAP TO DISMISS</string>
+    <string name="tap_to_take_screenshot">Tap to take screenshot</string>
+    <string name="tip_detach_gestures_3d">Zoom and rotate with two fingers</string>
+    <string name="tip_detach_gestures_flat">Zoom with two fingers</string>
+    <string name="tip_nothing_found">Nothing found</string>
+    <string formatted="false" name="tip_nothing_found_hint_1"><b>Tip:</b> Make sure that you are scanning items with a %appname% logo or QR codes</string>
+    <string name="tip_nothing_found_hint_2"><b>Tip:</b> Hold your device steady under good light conditions</string>
+    <string formatted="false" name="tip_nothing_found_hint_3"><b>Tip:</b> No %appname% logo in the page? Try a QR code</string>
+    <string formatted="false" name="tip_nothing_found_hint_4"><b>Tip:</b> Only scan items with a %appname% logo</string>
+    <string name="tip_nothing_found_hint_5"><b>Tip:</b> Scanning your surroundings? Open a Geo Layer</string>
+    <string name="tip_point_back">Point back to see content</string>
+    <string name="tip_point_back_hint"/>
+    <string name="toast_gps_disabled">GPS disabled</string>
+    <string name="trigger_available">This object has an automatic action assigned to it.</string>
+    <string name="trigger_do_launch_action">Launch</string>
+    <string name="trigger_dont_launch_action">Don\'t Launch</string>
+    <string name="twitter">Twitter</string>
+    <string name="unable_to_connect">Unable to connect to the Layar server, try again later</string>
+    <string name="unsupported_content_description">This content can\'t be viewed with your installed version of Layar.</string>
+    <string name="unsupported_content_title">Unsupported content</string>
+    <string name="use">Use</string>
+    <string name="video_loading">Loading video</string>
+    <string name="view_list">List</string>
+    <string name="view_map">Map</string>
+    <string name="vision_no_content_text">Scan another page to see more content</string>
+    <string name="vision_no_content_title">Empty page</string>
+    <string name="vision_scan">Tap screen to scan</string>
+    <string name="yes">Yes</string>
+    <style name="AudioSeekBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/layar_slider_background</item>
+        <item name="android:indeterminateDrawable">@drawable/layar_slider_background</item>
+        <item name="android:minHeight">19dip</item>
+        <item name="android:maxHeight">19dip</item>
+        <item name="android:thumb">@drawable/layar_btn_player_slider</item>
+        <item name="android:thumbOffset">0dip</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="AutoCompleteTextViewLayar" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:dropDownSelector">@drawable/layar_list_selector_holo_light</item>
+        <item name="android:background">@drawable/layar_edit_text_holo_light</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="BaseListView" parent="@android:style/Widget.ListView">
+        <item name="android:divider">@color/default_list_divider_color</item>
+        <item name="android:dividerHeight">1dip</item>
+        <item name="android:background">@color/default_list_bg_color</item>
+        <item name="android:cacheColorHint">@color/default_list_bg_color</item>
+        <item name="android:fadingEdge">none</item>
+    </style>
+    <style name="BiwDialogTheme" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/layar_transparency</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="ButtonLayar" parent="android:Widget.Button">
+        <item name="android:background">@drawable/layar_btn_default_holo_light</item>
+        <item name="android:minHeight">48dip</item>
+        <item name="android:minWidth">64dip</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="CheckBoxLayar" parent="android:Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/layar_btn_check_holo_light</item>
+    </style>
+    <style name="CustomHomeLabel">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="CustomMenuDialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@drawable/layar_menu_dropdown_panel_holo_light</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:listSelector">@color/button_highlight</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="DefaultText" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+    <style name="DescriptionText" parent="@android:style/Widget.TextView">
+        <item name="android:maxLines">2</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textSize">12dip</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/details_text_color</item>
+    </style>
+    <style name="DetailsText" parent="@android:style/Widget.TextView">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textSize">12dip</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/details_text_color</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="EditTextLayar" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/layar_edit_text_holo_light</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="FilterTextView" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+    <style name="FilterTheme" parent="Layar.Theme.Default">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewLayar</item>
+        <item name="android:dropDownSpinnerStyle">@style/SpinnerLayar.DropDown</item>
+        <item name="android:editTextStyle">@style/EditTextLayar</item>
+        <item name="android:buttonStyle">@style/ButtonLayar</item>
+        <item name="android:imageButtonStyle">@style/ImageButtonLayar</item>
+        <item name="android:checkboxStyle">@style/CheckBoxLayar</item>
+        <item name="android:radioButtonStyle">@style/RadioButtonLayar</item>
+        <item name="android:progressBarStyleHorizontal">@style/Layar.ProgressBar.Horizontal</item>
+        <item name="android:seekBarStyle">@style/SeekBarLayar</item>
+    </style>
+    <style name="FullScreenTheme" parent="LayarTitleTheme">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="ImageButtonLayar" parent="android:Widget.ImageButton">
+        <item name="android:background">@drawable/layar_btn_default_holo_light</item>
+    </style>
+    <style name="Layar.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/layar_progress_horizontal_holo_light</item>
+        <item name="android:indeterminateDrawable">@drawable/layar_progress_indeterminate_horizontal_holo_light</item>
+        <item name="android:minHeight">16dip</item>
+        <item name="android:maxHeight">16dip</item>
+    </style>
+    <style name="Layar.Theme.Default" parent="@android:style/Theme.Light"/>
+    <style name="LayarTheme" parent="LayarTheme.Light"/>
+    <style name="LayarTheme.Black" parent="android:Theme.Black">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:listViewStyle">@style/BaseListView</item>
+        <item name="android:windowTitleBackgroundStyle">@style/SectionHeaderText</item>
+        <item name="android:spinnerStyle">@style/SpinnerLayar</item>
+        <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemLayar</item>
+        <item name="android:progressBarStyleHorizontal">@style/Layar.ProgressBar.Horizontal</item>
+    </style>
+    <style name="LayarTheme.Light" parent="android:Theme.Light">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:listViewStyle">@style/BaseListView</item>
+        <item name="android:windowTitleBackgroundStyle">@style/SectionHeaderText</item>
+        <item name="android:progressBarStyleHorizontal">@style/Layar.ProgressBar.Horizontal</item>
+    </style>
+    <style name="LayarTitleTheme" parent="@style/LayarTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="RadioButtonLayar" parent="android:Widget.CompoundButton.RadioButton">
+        <item name="android:button">@drawable/layar_btn_radio_holo_light</item>
+    </style>
+    <style name="SectionHeaderText" parent="@android:style/Widget.TextView">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+    <style name="SeekBarLayar" parent="android:Widget.SeekBar">
+        <item name="android:progressDrawable">@drawable/layar_scrubber_progress_horizontal_holo_light</item>
+        <item name="android:indeterminateDrawable">@drawable/layar_scrubber_progress_horizontal_holo_light</item>
+        <item name="android:minHeight">13dip</item>
+        <item name="android:maxHeight">13dip</item>
+        <item name="android:thumb">@drawable/layar_scrubber_control_selector_holo_light</item>
+        <item name="android:thumbOffset">16dip</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+    <style name="SmartDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="SpinnerDropDownItemLayar" parent="android:Widget.DropDownItem.Spinner">
+        <item name="android:checkMark">@drawable/layar_btn_radio_holo_light</item>
+    </style>
+    <style name="SpinnerLayar" parent="android:Widget.Spinner">
+        <item name="android:background">@drawable/layar_spinner_background_holo_light</item>
+        <item name="android:dropDownSelector">@drawable/layar_list_selector_holo_light</item>
+    </style>
+    <style name="SpinnerLayar.DropDown">
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+    <style name="TabTitleText" parent="TitleText">
+        <item name="android:maxLines">2</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Throbber" parent="@android:style/Widget.ProgressBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateDuration">1000</item>
+        <item name="android:minHeight">24dip</item>
+        <item name="android:maxHeight">32dip</item>
+        <item name="android:minWidth">24dip</item>
+        <item name="android:maxWidth">32dip</item>
+        <item name="android:indeterminateDrawable">@drawable/layar_throbber_light_x</item>
+    </style>
+    <style name="Throbber.Black" parent="@style/Throbber">
+        <item name="android:indeterminateDrawable">@drawable/layar_throbber_dark_x</item>
+    </style>
+    <style name="Throbber.Light" parent="@style/Throbber"/>
+    <style name="TitleText" parent="@android:style/Widget.TextView">
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:textSize">14dip</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">@color/default_text_color</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

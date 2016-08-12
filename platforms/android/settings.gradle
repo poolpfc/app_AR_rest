@@ -1,0 +1,5 @@
+// GENERATED FILE - DO NOT EDIT
+include ":"
+include ":CordovaLib"
+include ":com.layar.cordova.LayarPlugin:layar_sdk"
+project(":com.layar.cordova.LayarPlugin:layar_sdk").projectDir = new File("com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk")

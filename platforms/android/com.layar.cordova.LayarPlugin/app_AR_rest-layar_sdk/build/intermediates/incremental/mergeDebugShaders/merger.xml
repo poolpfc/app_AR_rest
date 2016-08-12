@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/src/debug/shaders"/></dataSet></merger>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/values-en-rUS/values-en-rUS.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/values-en-rUS/defaults.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    }
+]

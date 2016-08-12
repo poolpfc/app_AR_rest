@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_sdk_fragment.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_sdk_fragment.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_message_input.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_message_input.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_audio.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_audio.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_custom_menu_item.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_custom_menu_item.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_fragment_ar.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_fragment_ar.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_fragment_create_screenshot.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_fragment_create_screenshot.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_layer_header.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_layer_header.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_dialog_message_with_icon.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_dialog_message_with_icon.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_filter_button.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_filter_button.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_dialog_smart.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_dialog_smart.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_share_on_facebook.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_share_on_facebook.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_custom_menu_button.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_custom_menu_button.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_fragment_geo.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_fragment_geo.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_filter_slider.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_filter_slider.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_qrcode_plaintext.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_qrcode_plaintext.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_fragment_layer_details.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_fragment_layer_details.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_web.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_web.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_video.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_video.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_filter_searchbox.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_filter_searchbox.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_filter_range.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_filter_range.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_layer_details.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_layer_details.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_biw.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_biw.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_share_social.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_share_social.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_filter_settings.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_filter_settings.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_unsupported_content.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_unsupported_content.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_poi_action_item.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_poi_action_item.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_section_header.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_section_header.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_fragment_vision.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_fragment_vision.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_vision_no_content.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_vision_no_content.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_screenshot.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_screenshot.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_sdk_activity.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_sdk_activity.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_qrcode_template.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_qrcode_template.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_tip_view_contents.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_tip_view_contents.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_tip_view.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_tip_view.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_dialog_filter.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_dialog_filter.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_activity_audio.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_activity_audio.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_dialog_smart_progress.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_dialog_smart_progress.xml"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/layout/layar_view_divider.xml",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/layout/layar_view_divider.xml"
+    }
+]

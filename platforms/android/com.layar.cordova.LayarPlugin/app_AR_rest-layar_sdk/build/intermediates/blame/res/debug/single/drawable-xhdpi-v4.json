@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_on_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_off_pressed_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_ar_custom_overflow.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_ar_custom_overflow.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_default_normal_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_default_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_layer_actions.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_layer_actions.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo1.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo1.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_track_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_mapmode.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_mapmode.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_settings.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_settings.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_tip_nothing_found_1.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_tip_nothing_found_1.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_shutter_pressed.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_shutter_pressed.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_list_longpressed_holo.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_spinner_disabled_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_on_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_action_save.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_action_save.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_expander_open_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_expander_open_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_off_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_on_pressed_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_control_normal_holo.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo6.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo6.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_textfield_activated_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_textfield_disabled_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_default_disabled_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_default_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_camera.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_camera.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_tip_nothing_found_2.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_tip_nothing_found_2.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progress_primary_holo.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progress_primary_holo.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_off_disabled_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_on_disabled_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_primary_holo.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progress_bg_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_spinner_focused_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo8.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo8.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_textfield_default_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_control_focused_holo.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_off_disabled_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_off_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_tip_point_back_at_page.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_tip_point_back_at_page.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_off_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_detach.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_detach.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_secondary_holo.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_refresh_white.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_refresh_white.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_refresh.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_refresh.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_on_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_report_problem.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_report_problem.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_logo.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_logo.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_share.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_share.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_splash_logo.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_splash_logo.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progress_secondary_holo.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progress_secondary_holo.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_spinner_pressed_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_on_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_default_disabled_focused_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_default_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_detach_close.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_detach_close.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_on_disabled_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_control_pressed_holo.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_default_focused_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_default_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo3.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo3.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_textfield_focused_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_menu_dropdown_panel_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_off_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_off_disabled_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_tip_bg.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_tip_bg.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo4.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo4.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo2.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo2.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_shutter_default.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_shutter_default.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_spinner_default_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_off_pressed_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_list_focused_holo.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo5.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo5.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_on_disabled_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_about.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_about.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_list_pressed_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_ic_menu_list.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_ic_menu_list.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_progressbar_indeterminate_holo7.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_progressbar_indeterminate_holo7.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_default_pressed_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_default_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_on_pressed_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_radio_on_disabled_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_radio_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_list_selector_disabled_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_tip_arrow_down.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_tip_arrow_down.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_scrubber_control_disabled_holo.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_textfield_disabled_focused_holo_light.9.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/build/intermediates/res/merged/debug/drawable-xhdpi-v4/layar_btn_check_off_disabled_focused_holo_light.png",
+        "source": "/run/media/poolpfc/Proyectos/proyectos_android/app_AR_rest/platforms/android/com.layar.cordova.LayarPlugin/app_AR_rest-layar_sdk/res/drawable-xhdpi/layar_btn_check_off_disabled_focused_holo_light.png"
+    }
+]

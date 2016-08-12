@@ -1,0 +1,317 @@
+/* Number of POIs and objects found */
+"%@ and %@" = "%1$@ 和 %2$@";
+
+/* Number of objects found */
+"%d objects found" = "找到了%d个兴趣点";
+
+/* Number of POIs found */
+"%d points of interest found" = "找到了%d个兴趣点";
+
+/* The title of an action that the user performed but the content was not loaded. Appears in a list of saved content. */
+"(untitled)" = "(无标题)";
+
+/* Single object found */
+"1 object found" = "找到了一个兴趣点";
+
+/* Single POI found */
+"1 point of interest found" = "找到了一个兴趣点";
+
+/* About screen title */
+"About" = "关于";
+
+/* About layer
+   WL apps menu item. %@ is replaced with app name */
+"About %@" = "关于 %@";
+
+/* The Keys used by this application have expired and need to be renewed. */
+"Access of this application to the Layar platform has expired." = "这个应用与Layar平台的连接已过有效期";
+
+/* Error handling URL scheme */
+"Application not installed" = "没有安装应用";
+
+/* QR Code button to open an audio URL */
+"Audio" = "音频";
+
+/* Automatically adjust range */
+"Automatically adjust range" = "自动调整范围";
+
+/* Back */
+"Back" = "后退";
+
+/* QR Code button to dial a number */
+"Call" = "电话";
+
+/* Camera */
+"Camera" = "相机";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* Default subject
+   Text that will be shared on social network */
+"Check out %@ on the Layar Reality Browser!" = "快来看看#layar上的%@";
+
+/* Close view */
+"Close" = "关闭";
+
+/* Contact us */
+"Contact us" = "联系我们";
+
+/* Credits */
+"Credits" = "鸣谢";
+
+/* Dismiss */
+"Dismiss" = "取消";
+
+/* Don't launch button */
+"Don't launch" = "不运行";
+
+/* Error handling Layar URL */
+"Download Layar" = "下载Layar";
+
+/* QR Code button to create an e-mail message */
+"E-Mail" = "电子邮箱";
+
+/* Empty page */
+"Empty page" = "空白页面";
+
+/* Error */
+"Error: %@" = "错误：%@";
+
+/* File Error */
+"File Error" = "文件错误";
+
+/* Get Layar */
+"Get Layar" = "下载Layar";
+
+/* Sending layer details request */
+"Getting layer details..." = "获取图层信息中...";
+
+/* Sending GetPOI request */
+"Getting results..." = "获取结果中...";
+
+/* WL apps menu item. %@ is replaced with app name */
+"How to use %@" = "使用说明 %@";
+
+/* Popup message when screenshot was saved to camera roll */
+"Image is saved to your camera roll" = "图片保存到了您的相册";
+
+/* Info */
+"Info" = "信息";
+
+/* This is the default email subject when sharing anything via email */
+"Interactive print with Layar" = "用Layar与印刷品交互";
+
+/* Launch */
+"Launch" = "运行";
+
+/* Title for location dialog */
+"Layar needs your location" = "Layar需要您的地理位置信息";
+
+/* Title for camera access dialog */
+"No permission to access your camera" = "没有打开相机的权限";
+
+/* QR Code button for layar intent */
+"Layer" = "图层";
+
+/* Title of layer actions action sheet */
+"Layer actions" = "图层动作";
+
+/* QR Code button to open an audio URL - call to action */
+"Listen Now" = "马上聆听";
+
+/* Loading… */
+"Loading…" = "加载中...";
+
+/* QR Code button to display geo location */
+"Location" = "地点";
+
+/* Login required */
+"Login required" = "需要登陆";
+
+/* Title for map view in navigation bar */
+"Map" = "地图";
+
+/* Missing content */
+"Missing content" = "缺少内容信息";
+
+/* More */
+"More" = "更多";
+
+/* More actions */
+"More actions" = "更多动作";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"No %@ logo in the page? Try a QR code" = "没有在图片上发现%@图标？试试扫描二维码";
+
+/* No content available */
+"No content available" = "没有可用的内容";
+
+/* Random tip shown if a scan fails. */
+"No Layar logo in the page? Try a QR code" = "没有在图片上发现Layar图标？试试扫描二维码";
+
+/* No Mail Accounts */
+"No Mail Accounts" = "没有邮箱帐户";
+
+/* No network connection */
+"No network connection" = "没有网络连接";
+
+/* Alert box title shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"No Permissions" = "没有权限";
+
+/* No POIs found */
+"No results found" = "未找到结果";
+
+/* Ok
+   OK
+   OK button title */
+"OK" = "好的";
+
+/* Settins Button Title */
+"Settings" = "设置";
+
+/* Random tip shown if a scan fails, %@ is replaced with application name */
+"Only scan items with a %@ logo" = "请只扫描有%@图标的图片";
+
+/* Random tip shown if a scan fails. */
+"Only scan items with a Layar logo" = "请只扫描有Layar图标的图片";
+
+/* OAuth verification failed. Key and secret should be checked. */
+"Oops! Verification failed on our servers. Please try again later." = "校验发生了错误。请稍后重试。";
+
+/* Web view action sheet item to open page in system browser */
+"Open in Safari" = "在Safari浏览器中打开";
+
+/* No network connection message */
+"Please make sure you are connected to a network" = "请确定您已连接到互联网";
+
+/* Please set up a Mail account in order to send email. */
+"Please set up a Mail account in order to send email." = "请创建邮箱帐户来发送邮件";
+
+/* Scan another page to see more content */
+"Scan another page to see more content" = "扫描另一张图片来浏览更多内容";
+
+/* Random tip shown if a scan fails. */
+"Scanning your surroundings? Open a Geo Layer" = "需要了解您附近的环境？打开一个地理图层吧！";
+
+/* Screenshot view controller title */
+"Screenshots" = "屏幕截图";
+
+/* Footer in the mail */
+"See more great layers and download the Layar Reality Browser for iPhone or Android at http://www.layar.com" = "浏览更多炫图层，从http://www.layar.com下载Layar到安卓或者苹果手机上。";
+
+/* Mail Controller Title */
+"Send by email" = "发送邮件";
+
+/* Web view action sheet item to share page */
+"Share" = "分享";
+
+/* Share screenshot view controller title */
+"Share screenshot" = "分享屏幕截图";
+
+/* Share to Developer's site */
+"Share to Developer's site" = "分享到开发者平台";
+
+/* Sharing failed */
+"Sharing failed" = "分享失败";
+
+/* Sharing was successful */
+"Sharing was successful" = "分享成功";
+
+/* QR Code button to to create an SMS message */
+"SMS" = "短信";
+
+/* Spot actions */
+"Spot actions" = "兴趣点动作";
+
+/* message for unpublished layer */
+"This layer has been unpublished by its owner." = "这个图层已经被发布者取消发布了";
+
+/* This type of content is not compatible with the installed vesion of Layar */
+"This type of content is not compatible with the installed version of Layar" = "这类信息与安装的Layar版本不兼容";
+
+/* Tip text on first Nothing Found overlay, %@ is replaced with app name */
+"Tip: Make sure you are scanning %@ content or \nQR codes" = "帮助：请确定您正在扫描印有%@图标\n或者二维码的图片";
+
+/* Message on launch geo-layers if location wasn't enabled the first time */
+"To view Geo Layers, please turn on Location Services for the Layar app in your device's Settings menu" = "请打开您设备设置菜单下的位置服务选项来浏览基于地理位置的图层";
+
+/* Message on launch camera if camera access is not enabled */
+"Allow access to your camera to continue using our app" = "允许打开相机来继续使用我们的应用";
+
+/* Unable to configure network read stream. */
+"Unable to configure network read stream." = "无法配置网络读取流";
+
+/* unknown person string for qr code vcard button */
+"unknown person" = "陌生人";
+
+/* Unsupported content type */
+"Unsupported content type" = "不支持的内容";
+
+/* Upgrade now! */
+"Upgrade now!" = "现在就升级！";
+
+/* QR Code button for unknown URL type */
+"URL" = "网址";
+
+/* QR Code button title to display a vCard */
+"vCard" = "电子名片";
+
+/* QR Code button to display geo location - call to action */
+"View on Map" = "在地图上浏览";
+
+/* View screenshots */
+"View screenshots" = "浏览截图";
+
+/* Waiting for GPS location... */
+"Waiting for GPS location..." = "等待获取GPS位置中...";
+
+/* Async request failed
+   Layer details request failed
+   POI request failed
+   Text action request failed
+   Text action request to server failed */
+"We didn't receive a suitable response from our servers. You might want to check your network connection or try again later." = "无法收到我们服务器的反馈信息。请查看您的网络设置并稍后重试。";
+
+/* Alert box shown when Layar is not granted access to contacts in phone privacy settings and user activates vCard action */
+"We don't have permission to access your contacts. Allow access by going to your settings, select privacy, select contacts and allow Layar access to perform this action." = "我们没有访问您的联系人的权限。请在您的系统设置下，选择打开隐私项－>联系人来让Layar完成这一动作。";
+
+/* QR Code button to open a URL */
+"WWW" = "WWW （万维网）";
+
+/* Can't handle such URL scheme */
+"You don't have the required application installed on your device to launch this action: %@" = "您设备上没有必要的应用来完成这一动作：%@";
+
+/* Please download Layar app to view this content */
+"You need to download the free Layar Reality Browser to view this content" = "您需要下载免费Layar浏览器来查看这些内容";
+
+/* Popup that asks the user for permission to launch an action */
+"You've reached a point of interest that wants to launch an action." = "您已经到达了一个兴趣点，它想触发一个动作";
+
+/* Popup that asks the user for permission to open a website */
+"You've reached a point of interest that wants to open a website." = "您已经到达了一个兴趣点，它想要为您打开一个网站";
+
+/* Popup that asks the user for permission to play a sound */
+"You've reached a point of interest that wants to play a sound." = "您已经到达了一个兴趣点，它想要为您播放一段音频。";
+
+/* Popup that asks the user for permission to play a video */
+"You've reached a point of interest that wants to play a video." = "您已经到达了一个兴趣点，它想要为您播放一段视频。";
+
+/* OAuth verification failed because date or time is incorrect. */
+"Your date or time is incorrect. Check your device settings and try again." = "您的日期或者时间有误。请查看您的设备系统设置然后重试。";
+
+/* Tip in detached view */
+"Zoom and rotate with two fingers." = "用两个手指缩放大小和旋转";
+
+/* Tip in detached view */
+"Zoom with two fingers." = "用两个手指缩放大小";
+
+/* Access the layer login page */
+"Access the layer login page" = "打开图层登陆页面";
+
+/* Login */
+"Login" = "登陆";
+
+/* Take me there action label */
+"Take me there" = "带我到那儿";
+

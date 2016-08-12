@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.layar.cordova.LayarPlugin" version="8.4.4" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>Phonegap Layar Plugin</name>
+    <description>PhoneGap/Cordova plugin for Layar to create Augmented Reality Apps</description>
+    <engines>
+        <engine name="cordova" version="&gt;=3.5.0"/>
+    </engines>
+    <!-- Third party libraries -->
+    <js-module name="underscorejs" src="www/lib/underscore-min-1.6.js">
+        <runs/>
+    </js-module>
+    <js-module name="Q" src="www/lib/q.min.js">
+        <runs/>
+    </js-module>
+    <!-- Plugin source code -->
+    <js-module name="LayarPlugin" src="www/LayarPlugin.js">
+        <merges target="LayarPlugin"/>
+    </js-module>
+    <!-- android -->
+    <platform name="android">
+        <config-file parent="/*" target="res/xml/config.xml">
+            <feature name="LayarPlugin">
+                <param name="android-package" value="org.apache.cordova.core.LayarPlugin"/>
+            </feature>
+        </config-file>
+        <framework custom="true" src="src/android/SDK/layar_sdk"/>
+        <source-file src="src/android/LayarPlugin.java" target-dir="src/org/apache/cordova/core"/>
+        <source-file src="src/android/LayarPluginCommand.java" target-dir="src/org/apache/cordova/core"/>
+        <config-file parent="/manifest" target="AndroidManifest.xml">
+            <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="18"/>
+            <permission android:name="com.layar.permission.MAPS_RECEIVE" android:protectionLevel="signature"/>
+            <uses-permission android:name="com.layar.permission.MAPS_RECEIVE"/>
+            <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+            <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+            <uses-permission android:name="android.permission.INTERNET"/>
+            <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+            <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+            <uses-permission android:name="android.permission.ACCESS_COARSE_UPDATES"/>
+            <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+            <uses-permission android:name="android.permission.CAMERA"/>
+            <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+            <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+            <uses-feature android:name="android.hardware.camera"/>
+        </config-file>
+        <config-file parent="/manifest/application" target="AndroidManifest.xml">
+            <activity android:launchMode="singleTask" android:name="com.layar.sdk.LayarSDKActivity" android:screenOrientation="nosensor" android:theme="@android:style/Theme.Light.NoTitleBar"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.player.geo.FilterSettingsActivity" android:theme="@style/FilterTheme"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.LayerDetailsActivity"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.WebActivity"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.ShareSocialActivity" android:theme="@style/Layar.Theme.Default"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.VideoActivity" android:theme="@style/FullScreenTheme"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.AudioActivity" android:theme="@style/SmartDialogTheme"/>
+            <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:name="com.layar.ScreenshotActivity" android:theme="@style/FullScreenTheme"/>
+            <activity android:name="com.facebook.LoginActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+            <activity android:name="com.layar.ShareOnFacebookActivity" android:theme="@android:style/Theme.Light.NoTitleBar" android:windowSoftInputMode="stateAlwaysVisible|adjustResize"/>
+            <activity android:name="com.layar.MapV2Activity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+            <receiver android:exported="false" android:name="com.layar.localytics.CloseSesionBroadcastReciever">
+                <intent-filter>
+                    <action android:name="com.layar.close_session"/>
+                </intent-filter>
+            </receiver>
+        </config-file>
+    </platform>
+    <!-- ios -->
+    <platform name="ios">
+        <config-file parent="/*" target="config.xml">
+            <feature name="LayarPlugin">
+                <param name="ios-package" value="LayarPlugin"/>
+            </feature>
+        </config-file>
+        <header-file src="src/ios/LayarPlugin.h"/>
+        <source-file src="src/ios/LayarPlugin.m"/>
+        <framework custom="true" src="src/ios/SDK/LayarSDK.framework"/>
+        <resource-file src="src/ios/SDK/LayarSDK.framework/LayarSDKResources.bundle"/>
+        <source-file framework="true" src="src/ios/SDK/libExternalLibraries.a"/>
+        <framework src="AddressBook.framework"/>
+        <framework src="AddressBookUI.framework"/>
+        <framework src="MessageUI.framework"/>
+        <framework src="CoreMotion.framework"/>
+        <framework src="CoreLocation.framework"/>
+        <framework src="CoreTelephony.framework"/>
+        <framework src="WebKit.framework"/>
+        <framework src="SystemConfiguration.framework"/>
+        <framework src="Social.framework"/>
+        <framework src="CoreData.framework"/>
+        <framework src="CFNetwork.framework"/>
+        <framework src="AVFoundation.framework"/>
+        <framework src="MapKit.framework"/>
+        <framework src="libc++.dylib"/>
+        <framework src="libstdc++.dylib"/>
+        <framework src="libxml2.dylib"/>
+        <framework src="libiconv.dylib"/>
+        <framework src="libz.dylib"/>
+    </platform>
+</plugin>
